@@ -2,7 +2,7 @@ import sys, pygame
 import time
 pygame.init()
 
-size = width, height = 1920, 1080
+size = width, height = 1400, 1300
 speed = [2, 2]
 black = 0, 0, 0
 
